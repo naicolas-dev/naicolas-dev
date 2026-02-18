@@ -81,8 +81,6 @@ Sentry
 
 Full-Stack Developer focused on **real-world web applications**, **dashboards**, and **productivity systems**, with strong emphasis on **Laravel backend architecture** and **clean, functional frontends**.
 
-🚧 Currently building: **Frequência Certa (Web & PWA)**
-
 </div>
 
 ---
