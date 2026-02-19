@@ -158,3 +158,11 @@ Junior / Mid-level · Internship · Freelance
 ## 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naicolas-dev&theme=react-dark&hide_border=true&area=true)
+
+---
+
+<p>
+  <a href="https://www.youtube.com/watch?v=9IVO5Dsz1KI">
+    <img src="https://i.imgur.com/IktrzOx.gif" alt="DevCLT Easter Egg" width="120"/>
+  </a>
+</p>
