@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://naicolas-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.naicolas.dev" target="_blank" rel="noopener noreferrer">
     Nicolas Viana Alves
   </a>
 </h1>
