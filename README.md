@@ -7,7 +7,7 @@
 <h3 align="center">Full-Stack Developer | Laravel & React</h3>
 
 <p align="center">
-  📍 Brazil · 🌍 Remote · 🎂 Age: <b>17</b>
+  📍 Brazil · 🌍 Remote · 🎂 Age: <b>18</b>
 </p>
 
 ---
